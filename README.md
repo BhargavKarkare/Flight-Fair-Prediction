@@ -6,4 +6,6 @@ Built a client facing API using flask.
 
 Demo link -->> https://flightfairprediction.herokuapp.com/predict
 
-Demo images are in folder
+Demo image:
+
+<img width="775" alt="Page2 after prediction" src="https://user-images.githubusercontent.com/83118429/155277281-2abe1dbc-33d2-422a-aa60-8d9a87a444d0.png">
